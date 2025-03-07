@@ -5,4 +5,4 @@
 
 ## Use of Generative AI Tools
 
-* Gemini - Was used insid of Google Colab for 'autocomplete', debug help, and explanation of modules/functions
+* Gemini - Was used inside of Google Colab for 'autocomplete', debug help, and explanation of modules/functions.
